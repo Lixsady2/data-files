@@ -1,0 +1,69 @@
+title,code,type,bondType,bondAmount,jailTime
+Murder,(1)01,Felony,Cash Bail,100000,90 Minutes
+Manslaughter,"(1)02 ",Felony,Cash Bail,50000,60 Minutes
+Attempted Murder,"(1)01A ",Felony,Cash Bail,100000,60 Minutes
+Criminal Threats,(1)03,Felony,Cash Bail,50000,45 Minutes
+Sexual Assult,(1)04,Felony,Cash Bail,80000,30 Minutes
+"Sexual Harassment ",(1)05,Felony,Cash Bail,80000,35 Minutes
+Assault,(1)06,Misdemeanor,Cash Bail,50000,60 Minutes
+Battery,(1)07,Misdemeanor,Cash Bail,25000,30 Minutes
+Speeding,(2)01,Infraction,No Bail,1000,None
+Criminal Speeding,(2)02,Misdemeanor,Cash Bail,10000,45 Minutes
+Illegal Vehicle Modifications,"(2)03 ",Infraction,No Bail,1000,None
+Grand Theft Auto,(2)04,Felony,Cash Bail,25000,45 Minutes
+Motor Vehicle Contest,(2)05,Felony,Cash Bail,50000,45 Minutes
+Invalid Vehicle Registration/Insurance,(2)06,Misdemeanor,No Bail,1500,15 Minutes
+Stop Sign Violation,(2)07,Infraction,No Bail,500,None
+Red Light Violation,(2)08,Infraction,No Bail,500,None
+Operating An Unroadworthy Vehicle,(2)10,Misdemeanor,Cash Bail,5000,10 Minutes
+Green Light Violation,(2)09,Infraction,No Bail,500,None
+Robbery,(3)01,Felony,Cash Bail,65000,45 Minutes
+Armed Robbery,(3)02,Felony,Cash Bail,65000,45 Minutes
+Road Rage,(2)11,Misdemeanor,No Bail,15000,30 Minutes
+Petty Theft,(3)03,Misdemeanor,Cash Bail,10000,25 Minutes
+Grand Theft,(3)04,Felony,Cash Bail,50000,45 Minutes
+Fraud,(3)05,Felony,Cash Bail,50000,30 Minutes
+"Prostitution ",(4)01,Felony,Cash Bail,25000,30 Minutes
+Pandering/Pimping,(4)02,Misdemeanor,Cash Bail,15000,30 Minutes
+Sexual Battery,(4)03,Misdemeanor,Cash Bail,5000,20 Minutes
+Rape,(4)04,Felony,No Bail,50000,45 Minutes
+Possession Of A Controlled Substance,(5)01,Misdemeanor,Cash Bail,15000,30 Minutes
+Possession Of A Controlled Substance With The Intent To Sell,(5)02,Felony,Cash Bail,50000,45 Minutes
+"Operating A Motor Vehicle While Under The Influence Of A Controlled Substance ",(5)03,Misdemeanor,Cash Bail,5000,45 Minutes
+Under The Influence Of A Controlled Substance,(5)04,Misdemeanor,Cash Bail,5000,15 Minutes
+Public Intoxication,(5)05,Misdemeanor,Cash Bail,1000,10 Minutes
+Distributing Alcohol To A Minor,(5)06,Misdemeanor,Cash Bail,1000,10 Minutes
+Failure To Maintain Lanes,(6)01,Infraction,No Bail,1000,None
+Reckless Driving(Speed+Lane Management),(6)02,Misdemeanor,Cash Bail,10000,25 Minutes
+"Not Following Lawful Driving Orders ",(6)03,Infraction,Cash Bail,5000,25 Minutes
+Use Of Firearm Inside Vehicle(Misuse Of Firearm),(6)04,Misdemeanor,Cash Bail,10000,15 Minutes
+Felony Evasion(In Vehicle),"(6)05 ",Felony,Cash Bail,80000,60 Minutes
+Unsecured Load/Trailer,(6)06,Infraction,No Bail,1500,None
+Excessive Use Of Horn(First Offence),(6)07,Warning,,0,None
+Excessive Use Of Horn(Second Offence),(6)07A,Infraction,No Bail,1000,None
+Driving A Stolen Vehicle,(6)08,Misdemeanor,Cash Bail,15000,25 Minutes
+Weapon Discharge Violation,(7)01,Misdemeanor,Cash Bail,5000,30 Minutes
+Illegal Sale Of Firearm,(7)02,Felony,Cash Bail,25000,45 Minutes
+Brandishing A Firearm,(7)03,Misdemeanor,Cash Bail,15000,30 Minutes
+Brandishing A Firearm Outside Of A Motor Vehicle,(7)03A,Misdemeanor,Cash Bail,10000,25 Minutes
+Brandishing A Firearm On Private Property,(7)03B,Misdemeanor,Cash Bail,10000,25 Minutes
+"Trespassing ",(8)01,Felony,Cash Bail,25000,30 Minutes
+Trespassing On Federal Property,(8)01A,Felony,Federal Bail Bond,90000,60 Minutes
+Arson,(8)02,Felony,Cash Bail,50000,60 Minutes
+Attempted Arson,(8)02A,Felony,Cash Bail,25000,30 Minutes
+Destruction Of Private Property,(8)03,Felony,Cash Bail,25000,30 Minutes
+Destruction Of Government Property,(8)03A,Felony,No Bail,50000,60 Minutes
+Parking Violation,(9)01,Infraction,No Bail,1000,None
+Making A False Police Report,(9)02AA,Misdemeanor,Cash Bail,10000,30 Minutes
+Misuse Of Emergency Hotline(911),(9)03AA,Misdemeanor,Cash Bail,5000,25 Minutes
+Driving With A Suspended Or Revoked License,(9)04,"Impound Vehicle ",Impound Vehicle,1500,None
+Parachuting Violation,(9)05AA,Infraction,No Bail,1000,None
+Kidnapping,(1.5)01,Felony,Cash Bail,100000,60 Minutes
+"Human Trafficking ",(1.5)02,Felony,Cash Bail,100000,90 Minutes
+Torture,(1.5)03AA,Death Penalty,No Bail,0,None
+Statutory Rape,(1.5)04AA,Death Penalty,No Bail,0,None
+Assault On A Peace Officer,(1.5)05,Felony,Cash Bail,100000,65 Minutes
+"Child Abuse And Negligence ",(1.5)06AA,Death Penalty,No Bail,0,None
+Prison Break,(1.5)07,Felony,Cash Bail,1000000,120 Minutes
+Riot,(1.5)08,Felony,Cash Bail,50000,45 Minutes
+Felony Evasion(On Foot),(6)05A,Felony,Cash Bail,25000,35 Minutes
